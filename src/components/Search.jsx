@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Router = () => {
+export const Search = () => {
     return (
         <div>
-            <h1>Router</h1>
+            Search
         </div>
     )
 }
